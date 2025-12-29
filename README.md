@@ -21,8 +21,7 @@ javac *.java
 java Main
 
 D.
-Program Output
-(docs/screenshots/output.jpg)
+![Program Output](docs/screenshots/output.jpg)
 
 E. Reflection Section
 
